@@ -58,3 +58,11 @@ Al presionar el boton de mas nos abre la siguiente ventana en la cual nos permit
 [![image.png](https://i.postimg.cc/SNvVcLFJ/image.png)](https://postimg.cc/CzbjgqKg)
 
 ### Multas
+
+
+
+---
+## Demostración en Video
+
+Puedes ver una demostración del sistema funcionando en el siguiente enlace:  
+🔗 [Ver en YouTube](https://youtu.be/pTgJs6feJnk)
