@@ -63,7 +63,7 @@ En esta parte se muestran todos los prestamos que se han realizado asi como los 
 [![image.png](https://i.postimg.cc/C5vZcP6s/image.png)](https://postimg.cc/30vJRBhk)
 
 ### Multas
-En esta parte se muestra los datos del ñibro que no se ha devuelto
+En esta parte se muestra los datos del ibro que no se ha devuelto
 
 [![image.png](https://i.postimg.cc/MZhXpBJT/image.png)](https://postimg.cc/6TfBHy3J)
 
