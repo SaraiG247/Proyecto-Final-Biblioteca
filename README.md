@@ -48,5 +48,13 @@ Aqui podemos insertar los libros para que se muestre en nuestra tabla
 
 
 ### Prestamos
+Esta ventana nos permite realizar los prestamos que los clientes soliciten, dentro de este sen encuentan el boton de mas "+"
+
+[![image.png](https://i.postimg.cc/TYCFFW86/image.png)](https://postimg.cc/vcx06THq)
+
+#### Agragar nuevo Cliente
+Al presionar el boton de mas nos abre la siguiente ventana en la cual nos permite añadir un nuevo cliente
+
+[![image.png](https://i.postimg.cc/SNvVcLFJ/image.png)](https://postimg.cc/CzbjgqKg)
 
 ### Multas
