@@ -21,6 +21,7 @@ Este proyecto consiste en un sistema de gestión de biblioteca desarrollado en J
    ```bash
    git clone https://github.com/SaraiG247/Proyecto-Final-Biblioteca.git
 
+
 ## Explicacion de la interfaz
 ### Inicio de sesion
 Este se encarga de dar acceso depenmdiendo del rol que el usuario tiene asignado y existe dentro de la base de datos
@@ -67,6 +68,11 @@ En esta parte se muestra los datos del ibro que no se ha devuelto
 
 [![image.png](https://i.postimg.cc/MZhXpBJT/image.png)](https://postimg.cc/6TfBHy3J)
 
+---
+## Base de datos
+A continucacion se muestra el diseño de la base de datos 
+
+[![Entidad-Relacion.png](https://i.postimg.cc/CKGxj4t0/Entidad-Relacion.png)](https://postimg.cc/B8v33247)
 
 
 ---
