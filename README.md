@@ -57,7 +57,15 @@ Al presionar el boton de mas nos abre la siguiente ventana en la cual nos permit
 
 [![image.png](https://i.postimg.cc/SNvVcLFJ/image.png)](https://postimg.cc/CzbjgqKg)
 
+#### Ver prestamos
+En esta parte se muestran todos los prestamos que se han realizado asi como los datos de los que realizaron el prestamo
+
+[![image.png](https://i.postimg.cc/C5vZcP6s/image.png)](https://postimg.cc/30vJRBhk)
+
 ### Multas
+En esta parte se muestra los datos del ñibro que no se ha devuelto
+
+[![image.png](https://i.postimg.cc/MZhXpBJT/image.png)](https://postimg.cc/6TfBHy3J)
 
 
 
