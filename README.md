@@ -6,11 +6,11 @@ Este proyecto consiste en un sistema de gestión de biblioteca desarrollado en J
 
 ## Tecnologías Utilizadas
 
-- **Lenguaje**: Java
+- **Lenguaje**: Java jdk 21
 - **Interfaz de usuario**: Java Swing
 - **Base de datos**: MySQL
 - **Conexión BD**: JDBC
-- **IDE**: NetBeans
+- **IDE**: NetBeans 20
 - **Arquitectura**: MVC (Modelo-Vista-Controlador)
 
 ---
