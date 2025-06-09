@@ -27,6 +27,11 @@ Este proyecto consiste en un sistema de gestión de biblioteca desarrollado en J
 Este se encarga de dar acceso depenmdiendo del rol que el usuario tiene asignado y existe dentro de la base de datos
 [![Captura-de-pantalla-2025-06-09-065757.png](https://i.postimg.cc/rpZkHGF9/Captura-de-pantalla-2025-06-09-065757.png)](https://postimg.cc/3yGV4vGy)
 
+### Correo de un nuevo usuario
+En esta ventana se muestra la ventana que sirve para enviar el correo electroicio
+
+[![image.png](https://i.postimg.cc/ry0cmPvR/image.png)](https://postimg.cc/3WTzfnr3)
+
 ### Menu
 El menu nos da acceso a todas las funciones que nuestro sistema nos da acceso dependiendo del tipo de usuario esta cambiara lo que muestra
 1. Usuario administrador
